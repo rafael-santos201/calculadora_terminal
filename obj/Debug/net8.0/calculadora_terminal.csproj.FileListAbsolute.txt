@@ -1,0 +1,17 @@
+C:\Users\rafael\Documents\projetos\calculadora_terminal\bin\Debug\net8.0\calculadora_terminal.exe
+C:\Users\rafael\Documents\projetos\calculadora_terminal\bin\Debug\net8.0\calculadora_terminal.deps.json
+C:\Users\rafael\Documents\projetos\calculadora_terminal\bin\Debug\net8.0\calculadora_terminal.runtimeconfig.json
+C:\Users\rafael\Documents\projetos\calculadora_terminal\bin\Debug\net8.0\calculadora_terminal.dll
+C:\Users\rafael\Documents\projetos\calculadora_terminal\bin\Debug\net8.0\calculadora_terminal.pdb
+C:\Users\rafael\Documents\projetos\calculadora_terminal\obj\Debug\net8.0\calculadora_terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael\Documents\projetos\calculadora_terminal\obj\Debug\net8.0\calculadora_terminal.AssemblyInfoInputs.cache
+C:\Users\rafael\Documents\projetos\calculadora_terminal\obj\Debug\net8.0\calculadora_terminal.AssemblyInfo.cs
+C:\Users\rafael\Documents\projetos\calculadora_terminal\obj\Debug\net8.0\calculadora_terminal.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Documents\projetos\calculadora_terminal\obj\Debug\net8.0\calculadora_terminal.dll
+C:\Users\rafael\Documents\projetos\calculadora_terminal\obj\Debug\net8.0\refint\calculadora_terminal.dll
+C:\Users\rafael\Documents\projetos\calculadora_terminal\obj\Debug\net8.0\calculadora_terminal.pdb
+C:\Users\rafael\Documents\projetos\calculadora_terminal\obj\Debug\net8.0\calculadora_terminal.genruntimeconfig.cache
+C:\Users\rafael\Documents\projetos\calculadora_terminal\obj\Debug\net8.0\ref\calculadora_terminal.dll
+C:\Users\rafael\Documents\projetos\calculadora_terminal\bin\Debug\net8.0\NCalc.dll
+C:\Users\rafael\Documents\projetos\calculadora_terminal\obj\Debug\net8.0\calculadora_terminal.csproj.AssemblyReference.cache
+C:\Users\rafael\Documents\projetos\calculadora_terminal\obj\Debug\net8.0\calculad.DBC38D93.Up2Date
